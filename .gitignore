@@ -1,0 +1,11 @@
+# Environment variables (secrets)
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Local database file
+*.db
+
+# TypeScript build output
+dist/
